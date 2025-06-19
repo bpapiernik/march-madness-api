@@ -3,5 +3,5 @@ uvicorn
 xgboost
 pandas
 numpy
-python-dotenv
-supabase-py
+dotenv
+supabase
