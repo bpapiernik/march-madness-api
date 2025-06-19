@@ -1,0 +1,7 @@
+app = "march-madness-api"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  # These values will come from the Fly.io Secrets UI
